@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1735372306 source:e:\semester 3\dsa\software assignment2\main.cpp
+	<iostream>
+	<vector>
+	<unordered_map>
+	<memory>
+	<string>
+	<sstream>
+	<ctime>
+	<random>
+
